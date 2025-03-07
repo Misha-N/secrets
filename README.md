@@ -1,4 +1,5 @@
-🎤 Welcome, O Brave Hacker 🎤
+🎶 Welcome, O Brave Hacker 🎶
+
 Oh, gather 'round, ye daring few,
 For a land of secrets lies here in view.
 A realm of codes, a trove untamed,
