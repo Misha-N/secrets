@@ -1,0 +1,16 @@
+{
+    "app_name": "awesomeApp",
+    "port": 8080,
+    "debug": true,
+    "secret_key": "77aaef76c35cbd1e758453ffb9f42cb12a9fa91f",
+    "third_party_services": {
+      "payments": {
+        "api_key": "5f6a8b2c0dbd472db9d57f39a63a8d65"
+      },
+      "data_analysis": {
+        "client_id": "dfc54897d6eb47de9f8cbfc3cbf908dc",
+        "client_secret": "9070a9e19ac34b86b5f69a7f9d56d1c8"
+      }
+    }
+  }
+  

@@ -1,0 +1,11 @@
+{
+    "provider": "CloudStorageInc",
+    "api_key": "S9d62w3fF8d1ab78ae94c1a9b0b8d0f93f",
+    "bucket_name": "user-data-bucket",
+    "region": "us-west-2",
+    "credentials": {
+      "username": "cloudAdmin",
+      "password": "secureCloudPassword123"
+    }
+  }
+  
